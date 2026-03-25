@@ -1,0 +1,153 @@
+.main11{
+    padding: 15px;
+    margin: 15px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    margin: 0;
+    padding: 10px;
+    border: 0;
+    background-color: azure;
+}
+.hi{
+    font-size: 60px;
+    background-clip: text;color: brown;
+    font-weight: bolder;
+    margin-left: 40%;
+
+
+}
+
+.h2{
+    font-size: 55px;
+    font-weight: bolder;
+     background-clip: text;color: rgb(46, 252, 5);
+    background-clip: brown;
+        margin-left: 35%;
+}
+
+.h3{
+       font-size: 55px;
+    font-weight: bolder;
+    background-clip: brown; 
+     background-clip: text;color: rgb(46, 252, 5);
+      margin-left: 35%;
+}
+
+.h4{
+           font-size: 35px;
+    font-weight: 100;
+    background-clip: rgb(19, 2, 2); 
+}
+
+.h58{
+        font-size: 55px;
+    font-weight: bolder;
+    background-clip: rgb(2, 48, 6); 
+     background-clip: text;color: rgb(46, 252, 5);
+    margin-left: 35%;
+}
+
+.h5{
+              font-size: 45px;
+    font-weight: 100;
+    background-clip: rgb(19, 2, 2);  
+}
+
+.h6{
+                 font-size: 55px;
+    font-weight: bolder;
+    background-clip: rgb(13, 2, 39);
+     background-clip: text;color: rgb(46, 252, 5);
+      margin-left: 35%;   
+}
+.h7{
+        font-size: 45px;
+    font-weight: 100;
+    background-clip: rgb(41, 33, 39); 
+}
+.h8{
+            font-size: 45px;
+    font-weight: 100;
+    background-clip: rgb(48, 44, 48); 
+}
+.h9{
+   font-size: 45px;
+    font-weight: 100;
+    background-clip: rgb(56, 53, 56); 
+}
+
+.h10{
+  font-size: 45px;
+    font-weight: 100;
+    background-clip: rgb(56, 53, 56); 
+}
+
+.hh1{
+                font-size: 55px;
+    font-weight: bolder;
+    background-clip: rgb(29, 4, 29); 
+     background-clip: text;color: rgb(46, 252, 5);
+      margin-left: 35%;
+
+}
+
+.hh2{
+    font-size: 45px;
+    font-weight: 100;
+    background-clip: rgb(56, 53, 56); 
+}
+
+
+.hh5{
+    font-size: 45px;
+    font-weight: 100;
+    background-clip: rgb(56, 53, 56);  
+}
+.hh4{
+     font-size: 35px;
+    font-weight: 100;
+    background-clip: rgb(56, 53, 56); 
+}
+.hh6{
+     font-size: 55px;
+    font-weight: bolder;
+    background-clip: rgb(56, 53, 56); 
+     background-clip: text;color: rgb(46, 252, 5);
+      margin-left: 35%;
+}
+.hh7{
+     font-size: 45px;
+    font-weight: 100;
+    background-clip: rgb(56, 53, 56); 
+}
+.hh8{
+        font-size: 45px;
+    font-weight: 100;
+    background-clip: rgb(56, 53, 56); 
+}
+.hh10{
+    font-size: 45px;
+    font-weight: 100;
+    background-clip: rgb(56, 53, 56); 
+}
+.hh9{
+        font-size: 55px;
+    font-weight: 100;
+    background-clip: rgb(56, 53, 56); 
+     background-clip: text;color: rgb(46, 252, 5);
+      margin-left: 35%;
+}
+
+.hh11{
+    font-size: 45px;
+    font-weight: 100;
+    background-clip: rgb(56, 53, 56); 
+}
+.hh15{
+    font-size: 45px;
+    font-weight: 100;
+    background-clip: rgb(56, 53, 56); 
+}
